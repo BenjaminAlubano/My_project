@@ -7,7 +7,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:location/location.dart';
 import 'c_location.dart';
 
-void main() {
+void main() {aaaaaaaaa
   initApp();
 }
 
@@ -229,7 +229,7 @@ class _HomePageState extends State<HomePage> {
           createPolygon(polygon.name!, areaPoints)
       );
     }
-  }
+  }     
 
   @override void initState() {
     super.initState();
